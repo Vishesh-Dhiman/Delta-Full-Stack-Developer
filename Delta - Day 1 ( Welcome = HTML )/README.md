@@ -86,7 +86,7 @@ Feel free to explore the code and make any necessary modifications!
 ---
 ## Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/HackinGyan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/the.chotudhiman)
 ---
 
 ```Line
